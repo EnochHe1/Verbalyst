@@ -3,6 +3,9 @@
 Created with Pancraes and sai3000pro for Ignition Hacks v.3 (2023), where we won the "Best Web Award" for our project. <br /> 
 Big shoutout to my awesome teammates 🥳 !
 
+![image](https://github.com/EnochHe1/Verbalyst/assets/133233938/ad4aaca3-439f-408a-a093-cdb550461bba)
+
+
 ## Inspiration
 
 When the quarantine was introduced, many individuals, including us, were starved of social interactions. It was difficult transitioning from text-only interactions to fully-fledged conversations after the pandemic, let alone public speeches and presentations. Although enough time has passed to mend our abilities to speak to others and have fruitful conversations, speeches in front of large groups still stand as challenges that we'd rather not face. Knowing that the prevalence of social anxiety is increasing drastically in our society, we decided to tackle the issue that we and many others face with our app, Verbalyst.
