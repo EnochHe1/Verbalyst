@@ -13,13 +13,13 @@ Verbalyst allows users to rehearse and record their speeches with both audio and
 
 ## How It's Built
 
--HTML
--CSS
--TailwindCSS
--JavaScript
--Python
--Flask
--AssemblyAI
+- HTML
+- CSS
+- TailwindCSS
+- JavaScript
+- Python
+- Flask
+- AssemblyAI
 -Google Vertex AI
 
 We used TailwindCSS, vanilla HTML and vanilla CSS to create all of the website pages. We used JavasSript for our recording software and used Flask to connect our front end to our back end. Our back end was created through Python and we used the Google vertexai API to have an AI-generated analysis of the speech that the user inputted, and we used the assemblyai API to have an AI do speech to text on the inputted mp4 file from the user.
